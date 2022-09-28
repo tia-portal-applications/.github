@@ -4,6 +4,10 @@
 
 This organization will host projects for automating solutions using the TIA Portal API (Openness) as well as TIA Add-Ins to enhance TIA Portal UI with additional functionality.
 
+This organization will host projects for automation solutions regarding TIA Portal (click on the link shows the appropriate repositories):
+- [WinCC Custom Web Controls](https://github.com/tia-portal-applications?q=customwebcontrol) to get preconfigured controls for your WinCC Unified device
+- [TIA Add-Ins](https://github.com/tia-portal-applications?q=tiaaddin) to enhance TIA Portal UI with additional functionality
+
 Click on the badges below to find more Siemens [open source projects](https://opensource.siemens.com)!
 
 [![Siemens](https://img.shields.io/badge/github-siemens-009999?logo=github)](https://github.com/siemens)
