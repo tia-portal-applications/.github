@@ -15,4 +15,4 @@ Click on the badges below to find more Siemens [open source projects](https://op
 [![IOT2050](https://img.shields.io/badge/github-iot2050-green?logo=github)](https://github.com/SIMATICmeetsLinux)
 [![MindSphere](https://img.shields.io/badge/github-mindsphere-003751?logo=github)](https://github.com/mindsphere)
 [![Mendix](https://img.shields.io/badge/github-mendix-0595db?logo=github)](https://github.com/mendix)
-[![SIMATIC AX](https://img.shields.io/badge/github-simatic--ax-00a9bd?logo=github)](https://github.com/simatic-ax)
+[![SIMATIC AX](https://img.shields.io/badge/github-simatic%20ax-00a9bd?logo=github)](https://github.com/simatic-ax)
